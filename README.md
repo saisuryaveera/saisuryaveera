@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saisuryaveera
 - 👀 I’m interested in Web application developement using Java
-- 🌱 I’m currently learning how to use Spring Boot
+- 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ... @saisuryaveera@gmail.com
 
